@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "CheesiDEV",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Cheesi DEV",
+  "description": "Multi Tool Mod",
   "authors": [
-    "Me!"
+    "Cheesi"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
